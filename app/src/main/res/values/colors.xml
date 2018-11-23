@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1C1C1C</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="numberButton">#434343</color>
+    <color name="operatorButton">#8A636363</color>
+    <color name="specialButton">#1DE9B6</color>
+    <color name="primaryColor">#FFF</color>
+    <color name="tvtextColor">#8A000000</color>
+    <color name="windowbg">#FFF</color>
+
+    <!--<color name="numberButton">#A9A9A9</color>-->
+    <!--<color name="operatorButton">#777777</color>-->
+    <!--<color name="specialButton">#ADD8E6</color>-->
+    <!--<color name="primaryColor">#505050</color>-->
+    <!--<color name="tvtextColor">#EFEFEF</color>-->
+    <!--<color name="windowbg">#BBC2C2</color>-->
+</resources>
